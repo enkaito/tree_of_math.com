@@ -1,7 +1,7 @@
 ---
 title: サイトについて
 date: 2024-08-22T14:00:04+09:00
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.
