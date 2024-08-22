@@ -1,5 +1,5 @@
 ---
-title: Test
+title: TestPage
 date: 2024-08-22T13:52:41+09:00
 lastmod: 2024-08-22T13:52:41+09:00
 author: Author Name
@@ -17,7 +17,7 @@ tags:
 draft: false
 ---
 
-Cut out summary from your post content here.
+これはテストページです。
 
 <!--more-->
 
