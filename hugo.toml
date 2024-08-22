@@ -39,13 +39,13 @@ rss = true
 
 siteStartYear = 2024
 
-favicon = "avatar.ico"
+favicon = "favicon.ico"
 
 # options
 stickyNav = true
 reorderNavItems = ["search", "posts", "categories", "tags"]
 collapseNavItems = ["posts", "categories", "tags", "rss"]
-# noDefaultSummaryCover = true
+noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
