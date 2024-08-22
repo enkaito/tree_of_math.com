@@ -1,8 +1,8 @@
-baseURL = 'https://arbormathematica.github.io/tree-of-math-project/'
-defaultContentLanguage = 'ja'
-languageCode = 'ja'
-title = '数学の樹'
-theme = 'dream'
+baseURL = "https://arbormathematica.github.io/tree-of-math-project/"
+defaultContentLanguage = "ja"
+languageCode = "ja"
+title = "数学の樹"
+theme = "dream"
 
 hasCJKLanguage = true
 
@@ -16,17 +16,20 @@ noClasses = false
 lightTheme = "emerald"
 darkTheme = "forest"
 
+# backgroundImage = ""
+# backgroundImageDark = ""
+
 # images = ["me/background.jpg"]
 
 # author = ""
-# description = "The life record of g1eny0ung is presented here."
+# description = ""
 avatar = "img/avatar.webp"
 headerTitle = "数学の樹プロジェクト"
-motto = "大学数学を定理単位に解説"
+motto = "大学数学を定理単位で解説"
 
 rss = true
 
-# email = "g1enyy0ung@gmail.com"
+# email = "@gmail.com"
 
 siteStartYear = 2024
 
@@ -35,7 +38,7 @@ favicon = "avatar.webp"
 # options
 stickyNav = true
 reorderNavItems = ["search", "posts", "categories", "tags", "rss"]
-collapseNavItems = ["posts", "categories", "tags", "rss"]
+collapseNavItems = ["posts", "categories", "tags"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
