@@ -1,7 +1,53 @@
-baseURL = 'https://arbormathematica.com/'
+baseURL = 'https://arbormathematica.github.io/tree-of-math-project/'
+defaultContentLanguage = 'ja'
 languageCode = 'ja'
 title = '数学の樹'
-
 theme = 'dream'
-defaultContentLanguage = 'ja'
+
 hasCJKLanguage = true
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+noClasses = false
+
+[params]
+lightTheme = "emerald"
+darkTheme = "forest"
+
+# images = ["me/background.jpg"]
+
+# author = ""
+# description = "The life record of g1eny0ung is presented here."
+avatar = "img/avatar.webp"
+headerTitle = "数学の樹プロジェクト"
+motto = "大学数学を定理単位に解説"
+
+rss = true
+
+# email = "g1enyy0ung@gmail.com"
+
+siteStartYear = 2024
+
+favicon = "avatar.webp"
+
+# options
+stickyNav = true
+reorderNavItems = ["search", "posts", "categories", "tags", "rss"]
+collapseNavItems = ["posts", "categories", "tags", "rss"]
+# noDefaultSummaryCover = true
+showTableOfContents = true
+showSummaryCoverInPost = true
+showPrevNextPost = true
+
+# [params.navItems]
+# github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
+
+[params.advanced]
+customCSS = ["css/custom.css"]
+# customJS = []
+
+[params.experimental]
+jsDate = true
+jsDateFormat = "yyyy年M月d日"
