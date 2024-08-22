@@ -31,7 +31,7 @@ rss = true
 
 siteStartYear = 2024
 
-favicon = "avatar.webp"
+favicon = "avatar.ico"
 
 # options
 stickyNav = true
@@ -41,9 +41,6 @@ collapseNavItems = ["posts", "categories", "tags", "rss"]
 showTableOfContents = true
 showSummaryCoverInPost = true
 showPrevNextPost = true
-
-# [params.navItems]
-# github = { href = "https://github.com/g1eny0ung", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 [params.advanced]
 customCSS = ["css/custom.css"]
