@@ -5,9 +5,9 @@ lastmod: 2024-08-22T13:52:41+09:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+cover: cover.jpg
 images:
-  - /img/cover.jpg
+  - cover.jpg
 categories:
   - category1
 tags:
