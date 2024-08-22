@@ -1,0 +1,7 @@
+baseURL = 'https://tree_of_math.org/'
+languageCode = 'ja'
+title = '数学の樹'
+
+theme = 'dream'
+defaultContentLanguage = 'ja'
+hasCJKLanguage = true
