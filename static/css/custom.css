@@ -9,3 +9,87 @@
   background-color: #171213;
   color: #cbc9ca;
 }
+
+.callout {
+  border-top: 5px solid;
+  margin: 0.5em auto;
+  padding: 0.5em 1.5em 1em;
+  border-radius: 5px;
+}
+
+.callout > div {
+  margin-bottom: 0.5em;
+  font-weight: 600;
+  font-size: 1.05em;
+}
+
+.callout > p {
+  margin: 0;
+}
+
+[data-theme="emerald"] {
+  .callout {
+    background-color: #e8e8e8;
+  }
+
+  .callout.def {
+    border-top-color: #2589d0;
+  }
+  .callout.def > div {
+    color: #2589d0;
+  }
+
+  .callout.prop {
+    border-top-color: #1fad80;
+  }
+  .callout.prop > div {
+    color: #1fad80;
+  }
+
+  .callout.thm {
+    border-top-color: #b92c3f;
+  }
+  .callout.thm > div {
+    color: #b92c3f;
+  }
+
+  .callout.lem {
+    border-top-color: #d4df36;
+  }
+  .callout.lem > div {
+    color: #9da70b;
+  }
+}
+
+[data-theme="forest"] {
+  .callout {
+    background-color: #303030;
+  }
+  .callout.def {
+    border-top-color: #66aee2;
+  }
+  .callout.def > div {
+    color: #66aee2;
+  }
+
+  .callout.prop {
+    border-top-color: #3cbf96;
+  }
+  .callout.prop > div {
+    color: #3cbf96;
+  }
+
+  .callout.thm {
+    border-top-color: #d63c51;
+  }
+  .callout.thm > div {
+    color: #d63c51;
+  }
+
+  .callout.lem {
+    border-top-color: #b9c50d;
+  }
+  .callout.lem > div {
+    color: #b9c50d;
+  }
+}
