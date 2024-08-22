@@ -19,8 +19,6 @@ darkTheme = "forest"
 # backgroundImage = ""
 # backgroundImageDark = ""
 
-# images = ["me/background.jpg"]
-
 # author = ""
 # description = ""
 avatar = "img/avatar.webp"
@@ -37,8 +35,8 @@ favicon = "avatar.webp"
 
 # options
 stickyNav = true
-reorderNavItems = ["search", "posts", "categories", "tags", "rss"]
-collapseNavItems = ["posts", "categories", "tags"]
+reorderNavItems = ["search", "posts", "categories", "tags"]
+collapseNavItems = ["posts", "categories", "tags", "rss"]
 # noDefaultSummaryCover = true
 showTableOfContents = true
 showSummaryCoverInPost = true
