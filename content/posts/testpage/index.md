@@ -24,3 +24,5 @@ draft: false
 これはテストページです。
 
 $$ \int\_\infty^\infty e^{-x^2} dx = \sqrt{\pi} $$
+
+オイラーの等式$e^{i \pi} = -1$は、移項した形$e^{i \pi} + 1 = 0$でも有名です。
