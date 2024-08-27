@@ -22,7 +22,7 @@ draft: false
 
 ## 定義
 {{% def 同値関係 %}}
-集合$X$上の二項関係 $R$ が以下の三条件を満たすとき、 $R$ は $X$ 上の**同値関係**であるという。
+集合$X$上の二項関係 $R \subset X \times X$ が以下の三条件を満たすとき、 $R$ は $X$ 上の**同値関係**であるという。
 
 1. $\forall x \in X, xRx$
 2. $\forall x, y \in X, xRy \implies yRx$
