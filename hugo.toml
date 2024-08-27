@@ -39,7 +39,7 @@ rss = true
 
 siteStartYear = 2024
 
-favicon = "favicon.ico"
+favicon = "img/favicon.ico"
 
 # options
 stickyNav = true
