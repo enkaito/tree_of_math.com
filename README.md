@@ -28,6 +28,20 @@
 - 命題：`{{% prop タイトル %}}`と`{{% /prop %}}`で囲む
 - 補題：`{{% lem タイトル %}}`と`{{% /lem %}}`で囲む
 
+## category, tagの指針
+
+### category
+
+- 必ず分野名を入力する。
+  - 例：代数学、幾何学、解析学
+- より詳細な分野があったほうが良い場合は、それも入力する。
+  - 例：多様体、群論
+
+### tag
+
+- その記事のカテゴリーを入力する。
+  - 主に、定義、定理、命題、補題のいずれかを選んで用いる。
+
 ## その他
 
-- vscodeに[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)、[markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)を入れることを推奨
+- vscodeに[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)、[markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)を入れることを推奨する。
