@@ -19,7 +19,7 @@ draft: false
 
 - [同値関係の定義]({{< ref "def_equivalence">}})
 
-## 主張
+## 定義
 
 {{% def "同値類・商集合" %}}
 $\sim$を集合$X$上の[同値関係]({{< ref "def_equivalence">}})とする。

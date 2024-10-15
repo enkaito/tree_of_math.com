@@ -20,7 +20,7 @@ draft: false
 - [正規部分群の定義]({{< ref "def_normal_subgroup">}})
 - [商集合の定義]({{< ref "def_quotient_set">}})
 
-## 主張
+## 定義
 
 {{% def "商群（剰余群）" %}}
 $G$を群、$N$をその[**正規部分群**]({{< ref "def_normal_subgroup">}})とする。
