@@ -24,7 +24,7 @@ draft: false
 ## 主張
 
 {{% thm 準同型写像 %}}
-$G, H$を群、$\phi: G \to H$を$G$から$H$への準同型写像とすると、
+$G, H$を群、$\phi: G \to H$を$G$から$H$への[準同型写像]({{< ref "def_homomorphism">}})とすると、
 
 $$G / \mathrm{Ker}(\phi) \cong \mathrm{Im}(\phi)$$
 
@@ -32,7 +32,7 @@ $$G / \mathrm{Ker}(\phi) \cong \mathrm{Im}(\phi)$$
 
 ## 注意
 
-- $\mathrm{Ker}(\phi)$が$G$の正規部分群なので、商群$G / \mathrm{Ker}(\phi)$が定まること、$\mathrm{Im}(\phi)$が$H$の部分群なので、同型が意味をなすことに注意。
+- $\mathrm{Ker}(\phi)$が$G$の正規部分群なので商群$G / \mathrm{Ker}(\phi)$が定まること、$\mathrm{Im}(\phi)$が$H$の部分群なので同型が意味をなすことに注意。
 - 準同型定理という名前だが、その内容は**同型**を示す定理である。
 - 準同型定理は第一同型定理とも呼ばれる。第二、第三同型定理もあり、よく知られている。まれに対応定理のことを第四同型定理と呼ぶこともある。
 
