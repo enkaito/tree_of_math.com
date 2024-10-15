@@ -51,7 +51,7 @@ showSummaryCoverInPost = true
 showPrevNextPost = true
 
 [params.advanced]
-customCSS = ["css/custom.css"]
+customCSS = ["css/custom.css", "css/callout.css", "css/katex.css"]
 # customJS = []
 
 [params.experimental]
