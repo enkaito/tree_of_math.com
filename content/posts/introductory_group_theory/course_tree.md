@@ -27,7 +27,7 @@ draft: false
 
 ## 正規部分群と商群
 
-- [定義：同値類・同値関係]({{< ref "def_equivalence">}})
+- [定義：同値関係]({{< ref "def_equivalence">}})
 - [定義：同値類・商集合]({{< ref "def_quotient_set">}})
 - [定義：正規部分群]({{< ref "def_normal_subgroup">}})
 - [定義：商群（剰余類）]({{< ref "def_quotient_group">}})
