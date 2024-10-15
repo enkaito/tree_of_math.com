@@ -23,3 +23,14 @@ draft: false
 - [定義：部分群]({{< ref "def_subgroup" >}})
 - [命題：部分群の判定法]({{< ref "prop_subgroup_test" >}})
 - [定理：部分群の共通部分は部分群]({{< ref "thm_subgroup_intersection" >}})
+
+## 正規部分群と商群
+
+- [定義：正規部分群]({{< ref "def_normal_subgroup" >}})
+- [定義：同値関係]({{< ref "def_equivalence" >}})
+- [定義：商群]({{< ref "def_quotient_group" >}})
+
+## 準同型写像と準同型定理
+
+- [定義：準同型写像]
+- [定義：準同型定理]

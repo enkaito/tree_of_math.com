@@ -6,7 +6,6 @@
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="google-site-verification" content="wtDzrz6wm4_VccSUWQX_pbmxARN65AGuywvwPckNmTo" />
     <title>{{ block "title" . -}} {{ T "home" }} {{- end }} | {{ site.Title }}</title>
 
     {{ partial "head.html" . }}
@@ -22,7 +21,7 @@
     {{ if .Param "math" }}
       {{ partialCached "math.html" . }}
     {{ end }}
-    
+
     {{ if .Store.Get "hasMermaid" }}
       <script type="module">
         import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
@@ -82,4 +81,3 @@
     <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
   </body>
 </html>
-

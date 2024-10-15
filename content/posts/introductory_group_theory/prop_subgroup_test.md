@@ -6,7 +6,7 @@ author: Author Name
 categories:
   - 代数学
 tags:
-  - 定義
+  - 命題
 draft: false
 ---
 
