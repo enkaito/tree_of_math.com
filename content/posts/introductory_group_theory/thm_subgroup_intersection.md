@@ -10,13 +10,13 @@ tags:
 draft: false
 ---
 
-部分群の定義を説明します。
+「部分群の共通部分もまた部分群である」という定理について解説します。
 
 <!--more-->
 
 ## 前提知識
 
-- [部分群の定義]({{< ref "def_subgroup" >}})
+- [部分群の判定法]({{< ref "prop_subgroup_test" >}})
 
 ## 主張
 
@@ -25,8 +25,12 @@ $G$を群、$H, K \subset G$を$G$の部分群とする。このとき、$H \cap
 
 {{% /thm %}}
 
+## 証明
+
+まず、
+
 ## 注意
 
-上の主張と同様の証明により、部分群の族$\set{H_\lambda}_{\lambda \in \Lambda}$の共通部分$\bigcap_{\lambda \in \Lambda} H_\lambda$も部分群であることが示せる。
+上と同様の証明により、部分群の族$\set{H_\lambda}_{\lambda \in \Lambda}$の共通部分$\bigcap_{\lambda \in \Lambda} H_\lambda$も部分群であることが示せる。
 
 ## 参考文献
