@@ -5,6 +5,7 @@ lastmod: 2024-10-15
 author: Author Name
 categories:
   - 代数学
+  - 群論
 tags:
   - 定理
 draft: false
@@ -16,7 +17,7 @@ draft: false
 
 ## 前提知識
 
-- [部分群の判定法]({{< ref "prop_subgroup_test" >}})
+- [部分群の判定法]({{< ref "prop_subgroup_test">}})
 
 ## 主張
 
@@ -26,8 +27,6 @@ $G$を群、$H, K \subset G$を$G$の部分群とする。このとき、$H \cap
 {{% /thm %}}
 
 ## 証明
-
-まず、
 
 ## 注意
 

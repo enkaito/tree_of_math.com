@@ -5,6 +5,7 @@ lastmod: 2024-10-15
 author: Author Name
 categories:
   - 代数学
+  - 群論
 tags:
   - 定義
 draft: false
@@ -16,7 +17,7 @@ draft: false
 
 ## 前提知識
 
-- [群の定義]({{< ref "def_group" >}})
+- [群の定義]({{< ref "def_group">}})
 
 ## 主張
 

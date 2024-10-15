@@ -10,6 +10,7 @@ author: Author Name
 #   - /img/cover.jpg
 categories:
   - 代数学
+  - 群論
 tags:
   - 定義
 # nolastmod: true

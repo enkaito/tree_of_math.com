@@ -5,6 +5,7 @@ lastmod: 2024-10-15
 author: Author Name
 categories:
   - 代数学
+  - 群論
 tags:
   - 定義
 draft: false
@@ -16,12 +17,12 @@ draft: false
 
 ## 前提知識
 
-- [部分群の定義]({{< ref "def_subgroup" >}})
+- [部分群の定義]({{< ref "def_subgroup">}})
 
 ## 主張
 
 {{% def 正規部分群 %}}
-$G$を群とする。$G$の**部分群**$N$が以下の条件を満たすとき、$N$は$G$の**正規部分群**であるという。
+$G$を群とする。$G$の[**部分群**]({{< ref "def_subgroup">}})$N$が以下の条件を満たすとき、$N$は$G$の**正規部分群**であるという。
 
 $$\forall g \in G, \forall n \in N, gng^{-1} \in N$$
 

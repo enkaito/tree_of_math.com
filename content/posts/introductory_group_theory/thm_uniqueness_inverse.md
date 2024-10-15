@@ -10,6 +10,7 @@ author: Author Name
 #   - /img/cover.png
 categories:
   - 代数学
+  - 群論
 tags:
   - 定理
 # nolastmod: true
@@ -22,7 +23,7 @@ draft: false
 
 ## 前提知識
 
-- [群の定義]({{< ref "def_group" >}})
+- [群の定義]({{< ref "def_group">}})
 
 ## 主張
 
