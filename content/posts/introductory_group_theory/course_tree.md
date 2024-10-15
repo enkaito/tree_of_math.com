@@ -34,5 +34,5 @@ draft: false
 
 ## 準同型写像と準同型定理
 
-- [定義：準同型写像・同型写像]({{< ref "def_homomorphism">}})
-- [定義：準同型定理]({{< ref "def_fundamental_theorem_for_homomorphisms">}})
+- [定義：準同型写像・同型写像・同型]({{< ref "def_homomorphism">}})
+- [定理：準同型定理]({{< ref "thm_fundamental_theorem_for_homomorphisms">}})
