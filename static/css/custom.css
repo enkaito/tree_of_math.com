@@ -10,6 +10,10 @@
   color: #cbc9ca;
 }
 
+.katex {
+  margin: 0.2em;
+}
+
 .callout {
   border-top: 5px solid;
   margin: 0.5em auto;

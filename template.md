@@ -4,9 +4,9 @@ date: 日付を入力（yyyy-mm-dd）
 lastmod: 日付を入力
 author: Author Name
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 draft: false
 ---
 
@@ -15,6 +15,7 @@ draft: false
 <!--more-->
 
 ## 定義
+
 {{% def タイトルを入力 %}}
 内容を入力
 {{% /def %}}
