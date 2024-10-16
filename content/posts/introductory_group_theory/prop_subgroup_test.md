@@ -1,7 +1,7 @@
 ---
 title: 部分群の判定法
 date: 2024-10-15
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論

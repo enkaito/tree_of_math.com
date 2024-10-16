@@ -5,8 +5,8 @@ title = "数学の樹"
 theme = "dream"
 
 hasCJKLanguage = true
-
 enableGitInfo = true
+disablePathToLower = true
 
 [markup]
 [markup.goldmark.extensions]

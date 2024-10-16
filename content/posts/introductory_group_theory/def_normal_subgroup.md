@@ -1,7 +1,7 @@
 ---
 title: 正規部分群の定義
 date: 2024-10-15
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論

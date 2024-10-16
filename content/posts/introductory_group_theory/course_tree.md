@@ -1,13 +1,15 @@
 ---
 title: 群論の基礎 目次
 date: 2024-10-15
-# author: Author Name
+author: Enklht
+avatar: /img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論
 tags:
   - 目次
 draft: false
+weight: 10
 ---
 
 <!--more-->

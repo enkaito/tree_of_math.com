@@ -1,7 +1,7 @@
 ---
 title: 群の定義
 date: 2024-08-22T19:09:29+09:00
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論

@@ -1,7 +1,7 @@
 ---
 title: 準同型写像の性質
 date: 2024-10-16
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論
@@ -43,7 +43,7 @@ $$
   \end{split}
 \end{equation}
 $$
-よって、$\phi(e_G)$は$H$の単位元である。単位元は一意なので、$\phi(e_G) = e_H$である。
+したがって、$\phi(e_G)$は$H$の単位元である。[単位元の一意性]({{< ref "thm_uniqueness_unit">}})より、$\phi(e_G) = e_H$である。
 
 ## 注意
 

@@ -1,7 +1,7 @@
 ---
 title: 同値関係の定義
 date: 2024-08-27T14:25:47+09:00
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論

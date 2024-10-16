@@ -1,7 +1,7 @@
 ---
 title: 逆元の一意性
 date: 2024-08-23T10:05:00+09:00
-# author: Author Name
+author: Enklht
 categories:
   - 代数学
   - 群論
