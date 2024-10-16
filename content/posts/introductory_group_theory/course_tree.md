@@ -43,7 +43,7 @@ weight: 10
 
 ## 群の生成
 
-- 定義：群の生成
+- [定義：生成された部分群]({{< ref "def_generated_group">}})
 - [定義：元の位数]({{< ref "def_order_elem">}})
 
 ## ラグランジュの定理

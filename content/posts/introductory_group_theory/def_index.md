@@ -1,5 +1,5 @@
 ---
-title: 部分群の指数
+title: 部分群の指数の定義
 date: 2024-10-16
 author: Enklht
 avatar: img/avatars/enklht.webp
@@ -14,6 +14,10 @@ draft: false
 指数について解説します。
 
 <!--more-->
+
+## 前提知識
+
+- [左、右剰余類]({{< ref "def_coset">}})
 
 ## 定義
 

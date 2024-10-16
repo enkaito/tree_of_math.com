@@ -1,10 +1,14 @@
 baseURL = "https://arbormathematica.github.io/tree-of-math-project/"
-defaultContentLanguage = "ja"
-languageCode = "ja"
+
 title = "数学の樹"
 theme = "dream"
 
+timeZone = "Asia/Tokyo"
+
+defaultContentLanguage = "ja"
+languageCode = "ja"
 hasCJKLanguage = true
+
 enableGitInfo = true
 disablePathToLower = true
 

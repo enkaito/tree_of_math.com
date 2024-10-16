@@ -1,5 +1,5 @@
 ---
-title: 元の位数
+title: 元の位数の定義
 date: 2024-10-16
 author: Enklht
 avatar: img/avatars/enklht.webp
@@ -17,7 +17,7 @@ draft: false
 
 ## 前提知識
 
-- 群の生成（準備中）
+- [生成された部分群]({{< ref "def_generated_group">}})
 
 ## 定義
 

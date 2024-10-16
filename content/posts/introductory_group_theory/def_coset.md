@@ -1,5 +1,5 @@
 ---
-title: 左、右剰余類
+title: 左、右剰余類の定義
 date: 2024-10-16
 author: Enklht
 avatar: img/avatars/enklht.webp
