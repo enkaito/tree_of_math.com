@@ -2,6 +2,7 @@
 title: 同値類・商集合の定義
 date: 2024-10-15
 author: Enklht
+avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論

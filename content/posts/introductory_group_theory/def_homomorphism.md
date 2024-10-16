@@ -2,6 +2,7 @@
 title: 準同型写像・同型写像・同型の定義
 date: 2024-10-15
 author: Enklht
+avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論

@@ -2,6 +2,7 @@
 title: 準同型写像の核・像
 date: 2024-10-15
 author: Enklht
+avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論
@@ -35,21 +36,6 @@ $$\mathrm{Im}(\phi) := \set{\phi(g); g \in G}$$
 を$\phi$の像（より正確には、$\phi$による$G$の像）という。$\mathrm{Im}(\phi)$は$H$の[部分群]({{< ref "def_subgroup">}})である。
 
 {{% /prop %}}
-
-## 証明
-
-### 準同型写像の核は正規部分群
-
-まず、
-$$
-\begin{equation}
-  \begin{split}
-    \phi(e_G)\phi(g) = \phi(e_Gg) = \phi(g) \\
-    \phi(g)\phi(e_G) = \phi(ge_G) = \phi(g)
-  \end{split}
-\end{equation}
-$$
-と単位元の一意性から、$\phi(e_G) = e_H$である。特に、$e_G \in \ker(\phi)$とわかる。
 
 ## 注意
 
