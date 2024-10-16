@@ -1,7 +1,6 @@
 ---
 title: タイトルを入力
 date: 日付を入力（yyyy-mm-dd）
-lastmod: 日付を入力
 author: Author Name
 categories:
   -

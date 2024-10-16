@@ -1,7 +1,6 @@
 ---
 title: 座標近傍の定義
 date: 2024-10-14
-lastmod: 2024-10-14
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
@@ -13,8 +12,7 @@ categories:
   - 多様体
 tags:
   - 定義
-# nolastmod: true
-draft: false
+# nodraft: false
 ---
 
 ここでは、座標近傍、局所座標系、局所座標を定義する

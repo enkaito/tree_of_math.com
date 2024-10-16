@@ -1,7 +1,6 @@
 ---
 title: 群の定義
 date: 2024-08-22T19:09:29+09:00
-lastmod: 2024-08-22T19:09:29+09:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
@@ -13,8 +12,7 @@ categories:
   - 群論
 tags:
   - 定義
-# nolastmod: true
-draft: false
+# nodraft: false
 ---
 
 群の定義について解説します。

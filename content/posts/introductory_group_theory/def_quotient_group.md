@@ -1,7 +1,6 @@
 ---
 title: 商群（剰余群）の定義
 date: 2024-10-15
-lastmod: 2024-10-15
 author: Author Name
 categories:
   - 代数学

@@ -1,7 +1,6 @@
 ---
 title: 準同型写像の核・像
 date: 2024-10-15
-lastmod: 2024-10-15
 author: Author Name
 categories:
   - 代数学
@@ -25,8 +24,8 @@ draft: false
 
 {{% prop 準同型写像の核は正規部分群 %}}
 $\phi: G \to H$を準同型とする。このとき、集合
-$$\mathrm{Ker}(\phi) := \set{g \in G; \phi(g) = e_H}$$
-を$\phi$の核という。$\mathrm{Ker}(\phi)$は$G$の[正規部分群]({{< ref "def_normal_subgroup">}})である。
+$$\ker(\phi) := \set{g \in G; \phi(g) = e_H}$$
+を$\phi$の核という。$\ker(\phi)$は$G$の[正規部分群]({{< ref "def_normal_subgroup">}})である。
 
 {{% /prop %}}
 
@@ -37,9 +36,25 @@ $$\mathrm{Im}(\phi) := \set{\phi(g); g \in G}$$
 
 {{% /prop %}}
 
+## 証明
+
+### 準同型写像の核は正規部分群
+
+まず、
+$$
+\begin{equation}
+  \begin{split}
+    \phi(e_G)\phi(g) = \phi(e_Gg) = \phi(g) \\
+    \phi(g)\phi(e_G) = \phi(ge_G) = \phi(g)
+  \end{split}
+\end{equation}
+$$
+と単位元の一意性から、$\phi(e_G) = e_H$である。特に、$e_G \in \ker(\phi)$とわかる。
+
 ## 注意
 
-- $\mathrm{Ker}(\phi) \subset G, \mathrm{Im}(\phi) \subset H$なので、同じ群の部分群ではないこと注意。
+- $\ker(\phi) \subset G, \mathrm{Im}(\phi) \subset H$なので、同じ群の部分群ではないこと注意。
 - $\mathrm{Im}(\phi)$は$\phi(G)$ともかく。
+- 核はカーネル、像はイメージとも呼ぶ。
 
 ## 参考文献

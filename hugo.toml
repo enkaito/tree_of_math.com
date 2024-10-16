@@ -6,6 +6,8 @@ theme = "dream"
 
 hasCJKLanguage = true
 
+enableGitInfo = true
+
 [markup]
 [markup.goldmark.extensions]
 [markup.goldmark.extensions.passthrough]

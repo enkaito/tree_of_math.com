@@ -1,7 +1,6 @@
 ---
 title: 多様体の定義
 date: 2024-10-14
-lastmod: 2024-10-14
 author: Author Name
 categories:
   - 幾何学
