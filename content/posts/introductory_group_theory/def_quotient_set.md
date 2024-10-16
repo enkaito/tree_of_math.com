@@ -1,7 +1,7 @@
 ---
 title: 同値類・商集合の定義
 date: 2024-10-15
-author: Author Name
+# author: Author Name
 categories:
   - 代数学
   - 群論

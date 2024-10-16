@@ -1,7 +1,7 @@
 ---
 title: 準同型写像の核・像
 date: 2024-10-15
-author: Author Name
+# author: Author Name
 categories:
   - 代数学
   - 群論

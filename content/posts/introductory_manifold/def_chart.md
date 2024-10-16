@@ -1,18 +1,13 @@
 ---
 title: 座標近傍の定義
 date: 2024-10-14
-author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-# cover: /img/cover.jpg
-# images:
-#   - /img/cover.jpg
+# author: Author Name
 categories:
   - 幾何学
   - 多様体
 tags:
   - 定義
-# nodraft: false
+draft: false
 ---
 
 ここでは、座標近傍、局所座標系、局所座標を定義する

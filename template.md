@@ -1,7 +1,7 @@
 ---
 title: タイトルを入力
 date: 日付を入力（yyyy-mm-dd）
-author: Author Name
+# author: Author Name
 categories:
   -
 tags:

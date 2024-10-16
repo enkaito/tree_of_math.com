@@ -1,18 +1,13 @@
 ---
 title: 群の定義
 date: 2024-08-22T19:09:29+09:00
-author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-# cover: /img/cover.jpg
-# images:
-#   - /img/cover.jpg
+# author: Author Name
 categories:
   - 代数学
   - 群論
 tags:
   - 定義
-# nodraft: false
+draft: false
 ---
 
 群の定義について解説します。

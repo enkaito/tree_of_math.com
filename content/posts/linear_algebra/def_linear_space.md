@@ -2,16 +2,11 @@
 title: ベクトル空間の定義
 date: 2024-08-24T16:46:02+09:00
 author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-# cover: /img/cover.jpg
-# images:
-#   - /img/cover.jpg
 categories:
   - 線形代数
 tags:
   - 定義
-# nodraft: false
+draft: false
 ---
 
 ベクトル空間の定義について解説します。

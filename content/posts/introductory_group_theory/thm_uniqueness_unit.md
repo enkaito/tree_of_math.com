@@ -1,18 +1,13 @@
 ---
 title: 単位元の一意性
 date: 2024-08-22T19:09:30+09:00
-author: Author Name
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-# cover: /img/cover.png
-# images:
-#   - /img/cover.png
+# author: Author Name
 categories:
   - 代数学
   - 群論
 tags:
   - 定理
-# nodraft: false
+draft: false
 ---
 
 群の単位元が一意に定まることを解説します。
