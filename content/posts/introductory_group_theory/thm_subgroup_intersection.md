@@ -26,8 +26,6 @@ $G$を群、$H, K \subset G$を$G$の部分群とする。このとき、$H \cap
 
 {{% /thm %}}
 
-## 証明
-
 ## 注意
 
 上と同様の証明により、部分群の族$\set{H_\lambda}_{\lambda \in \Lambda}$の共通部分$\bigcap_{\lambda \in \Lambda} H_\lambda$も部分群であることが示せる。

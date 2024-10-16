@@ -22,7 +22,7 @@ draft: false
 ## 定義
 
 {{% def 正規部分群 %}}
-$G$を群とする。$G$の[**部分群**]({{< ref "def_subgroup">}})$N$が以下の条件を満たすとき、$N$は$G$の**正規部分群**であるという。
+$G$を群とする。$G$の[**部分群**]({{< ref "def_subgroup">}})$N$が以下の条件を満たすとき、$N$は$G$の**正規部分群**であるといい、$N \triangleleft G$とかく。
 
 $$\forall g \in G, \forall n \in N, gng^{-1} \in N$$
 
@@ -35,5 +35,8 @@ $$\forall g \in G, \forall n \in N, gng^{-1} \in N$$
 また、上の条件は
 $$\forall g \in G, gNg^{-1} \subset N$$
 ともかける。
+
+アーベル群（演算が可換な群）の場合、任意の部分群は正規部分群となる。実際、$H$が$G$の部分群ならば、任意の$g \in G, h \in H$について、
+$$ghg^{-1} = hgg^{-1} = h \in H$$
 
 ## 参考文献
