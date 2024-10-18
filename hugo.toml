@@ -1,7 +1,5 @@
-baseURL = "https://arbormathematica.github.io/tree-of-math-project/"
-
 title = "数学の樹"
-theme = "dream"
+baseURL = "https://arbormathematica.github.io/tree-of-math-project/"
 
 timeZone = "Asia/Tokyo"
 
@@ -9,57 +7,52 @@ defaultContentLanguage = "ja"
 languageCode = "ja"
 hasCJKLanguage = true
 
+theme = "dream"
+
 enableGitInfo = true
 disablePathToLower = true
 
 [markup]
-[markup.goldmark.extensions]
-[markup.goldmark.extensions.passthrough]
-enable = true
-[markup.goldmark.extensions.passthrough.delimiters]
-block = [['\[', '\]'], ['$$', '$$']]
-inline = [['\(', '\)'], ['$', '$']]
-[markup.goldmark.renderer]
-unsafe = true
-[markup.highlight]
-noClasses = false
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]'], ['$$', '$$']]
+          inline = [['\(', '\)'], ['$', '$']]
 
 [params]
-math = true
+  headerTitle = "数学の樹プロジェクト"
+  motto = "大学数学を定理単位で解説"
+  # description = ""
+  siteStartYear = 2024
 
-lightTheme = "emerald"
-darkTheme = "forest"
+  # author = ""
+  # email = "@gmail.com"
+  avatar = "img/avatar.webp"
+  favicon = "img/favicon.ico"
 
-# backgroundImage = ""
-# backgroundImageDark = ""
+  lightTheme = "emerald"
+  darkTheme = "forest"
 
-# author = ""
-# description = ""
-avatar = "img/avatar.webp"
-headerTitle = "数学の樹プロジェクト"
-motto = "大学数学を定理単位で解説"
+  math = true
+  rss = true
+  stickyNav = true
+  reorderNavItems = ["search", "posts", "categories", "tags"]
+  collapseNavItems = ["posts", "categories", "tags", "rss"]
+  noDefaultSummaryCover = true
+  showTableOfContents = true
+  showSummaryCoverInPost = true
+  showPrevNextPost = true
 
-rss = true
+  [params.advanced]
+    customCSS = ["css/custom.css", "css/callout.css", "css/katex.css"]
+    # customJS = []
 
-# email = "@gmail.com"
-
-siteStartYear = 2024
-
-favicon = "img/favicon.ico"
-
-# options
-stickyNav = true
-reorderNavItems = ["search", "posts", "categories", "tags"]
-collapseNavItems = ["posts", "categories", "tags", "rss"]
-noDefaultSummaryCover = true
-showTableOfContents = true
-showSummaryCoverInPost = true
-showPrevNextPost = true
-
-[params.advanced]
-customCSS = ["css/custom.css", "css/callout.css", "css/katex.css"]
-# customJS = []
-
-[params.experimental]
-jsDate = true
-jsDateFormat = "yyyy年M月d日"
+  [params.experimental]
+    jsDate = true
+    jsDateFormat = "yyyy年M月d日"

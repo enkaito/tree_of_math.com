@@ -4,8 +4,7 @@ date: 2024-10-15
 author: Enklht
 avatar: img/avatars/enklht.webp
 categories:
-  - 代数学
-  - 群論
+  - 論理と集合
 tags:
   - 定義
 draft: false
@@ -21,7 +20,7 @@ draft: false
 
 ## 定義
 
-{{% def "同値類・商集合" %}}
+{{% def "同値類 (equivalence class)・商集合 (quotient set)" %}}
 $\sim$を集合$X$上の[同値関係]({{< ref "def_equivalence">}})とする。
 $x \in X$に対して、$X$の部分集合
 $$[x] := \set{y \in X; x \sim y}$$
@@ -35,7 +34,6 @@ $$\set{[x]; x \in X}$$
 
 ## 注意
 
-$X/\sim$は$X$の「部分集合の集合」である。ところで、「集合の集合」をよく族と呼ぶ。
-この言葉を用いて、$X/\sim$は$X$の「部分集合の族」、あるいはより短く「部分集合族」ということも多ことも多い。
+- $X/\sim$は$X$の「部分集合の集合」である。ところで、「集合の集合」をよく族と呼ぶ。この言葉を用いて、$X/\sim$は$X$の「部分集合の族」、あるいはより短く「部分集合族」ということも多ことも多い。
 
 ## 参考文献

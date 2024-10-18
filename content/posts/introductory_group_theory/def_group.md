@@ -17,7 +17,7 @@ draft: false
 
 ## 定義
 
-{{% def 群 %}}
+{{% def "群 (group)" %}}
 空でない集合$G$と、その上の二項演算$\cdot: G \times G \to G$が以下を満たすとき、$(G, \cdot)$は **群**であるという。
 
 1. $\exists e \in G, \forall g \in G, g \cdot e = e \cdot g = g$

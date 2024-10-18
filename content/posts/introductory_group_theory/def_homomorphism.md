@@ -21,7 +21,7 @@ draft: false
 
 ## 定義
 
-{{% def "準同型写像・同型写像・同型" %}}
+{{% def "準同型写像 (homomorphism)・同型写像 (isomorphism)・同型 (isomorhpic)" %}}
 $G, H$を群とする。以下の条件を満たす写像$\phi: G \to H$を$G$から$H$への**準同型写像**という。
 
 $$\forall g, g' \in G, \phi(g g') = \phi(g) \phi(g')$$

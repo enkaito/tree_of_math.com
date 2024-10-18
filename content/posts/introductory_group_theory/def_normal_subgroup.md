@@ -21,7 +21,7 @@ draft: false
 
 ## 定義
 
-{{% def 正規部分群 %}}
+{{% def "正規部分群 (normal subgroup)" %}}
 $G$を群とする。$G$の[**部分群**]({{< ref "def_subgroup">}})$N$が以下の条件を満たすとき、$N$は$G$の**正規部分群**であるといい、$N \triangleleft G$とかく。
 
 $$\forall g \in G, \forall n \in N, gng^{-1} \in N$$

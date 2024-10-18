@@ -4,8 +4,7 @@ date: 2024-08-27T14:25:47+09:00
 author: Enklht
 avatar: img/avatars/enklht.webp
 categories:
-  - 代数学
-  - 群論
+  - 論理と集合
 tags:
   - 定義
 draft: false
@@ -17,7 +16,7 @@ draft: false
 
 ## 定義
 
-{{% def 同値関係 %}}
+{{% def "同値関係 (equivalence relation)" %}}
 集合$X$上の二項関係 $R \subset X \times X$ が以下の三条件を満たすとき、 $R$ は $X$ 上の**同値関係**であるという。
 
 1. $\forall x \in X, xRx$

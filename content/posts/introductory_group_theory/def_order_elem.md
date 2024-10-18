@@ -21,7 +21,7 @@ draft: false
 
 ## 定義
 
-{{% def 元の位数 %}}
+{{% def "元の位数 (order)" %}}
 $G$を群とする。$g \in G$について、その生成する部分群$\langle g\rangle$の位数を$g$の**位数**といい、$|g|$とかく。
 
 {{% /def %}}
@@ -29,6 +29,6 @@ $G$を群とする。$g \in G$について、その生成する部分群$\langle
 ## 注意
 
 - [群の位数]({{< ref "def_order_group">}})と混乱しないよう注意。
-- [ラグランジュの定理]({{< ref "thm_lagrange_theorem">}})により、$|g|$は$|G|$の約数とわかる。
+- [Lagrangeの定理]({{< ref "thm_lagrange_theorem">}})により、$|g|$は$|G|$の約数とわかる。
 
 ## 参考文献

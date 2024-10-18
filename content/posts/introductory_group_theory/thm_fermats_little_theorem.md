@@ -21,7 +21,7 @@ draft: false
 
 ## 主張
 
-{{% thm フェルマーの小定理 %}}
+{{% thm "フェルマーの小定理 (Fermat's little theorem)" %}}
 $p$を素数とする。$a \in \mathbb{Z}$が$p$で割り切れないとき、$$a^{p-1} \equiv 1 \pmod{p}.$$
 
 {{% /thm %}}
@@ -29,7 +29,7 @@ $p$を素数とする。$a \in \mathbb{Z}$が$p$で割り切れないとき、$$
 ## 証明
 
 上の主張は、「任意の$[a] \in (\mathbb{Z} / p \mathbb{Z})^{\times}$について$[a]^{p-1} = [1]$」と言い換えられる。
-ラグランジュの定理より$[a]$の位数は$|(\mathbb{Z} / p \mathbb{Z})^{\times}|= p-1$の約数なので、確かに$[a]^{p-1} = [1]$である。
+[Lagrangeの定理]({{< ref "thm_lagrange_theorem">}})より$[a]$の位数は$|(\mathbb{Z} / p \mathbb{Z})^{\times}|= p-1$の約数なので、確かに$[a]^{p-1} = [1]$である。
 
 ## 注意
 
