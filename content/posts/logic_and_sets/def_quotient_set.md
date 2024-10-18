@@ -1,5 +1,5 @@
 ---
-title: 同値類・商集合の定義
+title: 同値類・商集合
 date: 2024-10-15
 author: Enklht
 avatar: img/avatars/enklht.webp

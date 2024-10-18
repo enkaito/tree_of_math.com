@@ -1,5 +1,5 @@
 ---
-title: 正規部分群の定義
+title: 正規部分群
 date: 2024-10-15
 author: Enklht
 avatar: img/avatars/enklht.webp

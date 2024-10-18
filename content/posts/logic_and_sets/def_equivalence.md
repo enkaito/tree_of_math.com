@@ -1,5 +1,5 @@
 ---
-title: 同値関係の定義
+title: 同値関係
 date: 2024-08-27T14:25:47+09:00
 author: Enklht
 avatar: img/avatars/enklht.webp

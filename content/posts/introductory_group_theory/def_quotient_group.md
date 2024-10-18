@@ -1,5 +1,5 @@
 ---
-title: 剰余群（商群）の定義
+title: 剰余群（商群）
 date: 2024-10-15
 author: Enklht
 avatar: img/avatars/enklht.webp

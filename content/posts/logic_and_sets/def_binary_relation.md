@@ -1,5 +1,5 @@
 ---
-title: 二項関係・関係の定義
+title: 二項関係・関係
 date: 2024-10-18
 author: Enklht
 avatar: img/avatars/enklht.webp

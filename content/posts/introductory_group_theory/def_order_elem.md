@@ -1,5 +1,5 @@
 ---
-title: 元の位数の定義
+title: 元の位数
 date: 2024-10-16
 author: Enklht
 avatar: img/avatars/enklht.webp
