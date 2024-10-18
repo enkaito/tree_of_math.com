@@ -19,8 +19,8 @@ weight: 10
 
 ### 集合・部分集合
 
-- [定義：集合 (set)・元 (element)]
-- [定義：部分集合 (subset)]
+- [定義：集合 (set)・元 (element)]({{< ref "def_set">}})
+- [定義：部分集合 (subset)]({{< ref "def_subset">}})
 
 ### 論理記号
 
@@ -31,7 +31,7 @@ weight: 10
 
 ### 集合の演算
 
-- [定義：補集合 (complement)]
+- [定義：補集合 (complement)]({{< ref "def_complement">}})
 - [定義：和集合 (union)]
 - [定義：積集合（共通部分） (intersection)]
 - [定義：差集合 (set difference)]

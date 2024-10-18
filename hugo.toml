@@ -19,6 +19,9 @@ disablePathToLower = true
     [markup.goldmark.renderer]
       unsafe = true
     [markup.goldmark.extensions]
+      [markup.goldmark.extensions.cjk]
+        enable = true
+        escapedSpace = true
       [markup.goldmark.extensions.passthrough]
         enable = true
         [markup.goldmark.extensions.passthrough.delimiters]
@@ -43,7 +46,7 @@ disablePathToLower = true
   rss = true
   stickyNav = true
   reorderNavItems = ["search", "posts", "categories", "tags"]
-  collapseNavItems = ["posts", "categories", "tags", "rss"]
+  collapseNavItems = ["posts", "rss"]
   noDefaultSummaryCover = true
   showTableOfContents = true
   showSummaryCoverInPost = true

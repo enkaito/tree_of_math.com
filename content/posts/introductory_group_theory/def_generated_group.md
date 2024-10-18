@@ -23,7 +23,7 @@ draft: false
 ## 定義
 
 {{% def "生成された部分群 (generated subgroup)" %}}
-群$G$の部分集合$S$に対して、すべての$S$を含む$G$の部分集合の共通部分を **$S$によって生成された$G$の部分群**や**$S$の生成する$G$の部分群**とよび、$\langle S \rangle$とかく。つまり、
+群$G$の部分集合$S$に対して、すべての$S$を含む$G$の部分集合の共通部分を$S$によって**生成された$G$の部分群**や$S$の**生成する$G$の部分群**とよび、$\langle S \rangle$とかく。つまり、
 $$\langle S \rangle \colonequals \bigcap \set{H; HはGの部分群でSを含む。}.$$
 
 特に、$S$が有限で、$S = \set{g_1, g_2, ..., g_n}$のとき、$S$の生成する部分群を$\langle g_1, g_2, ..., g_n \rangle$とかく。
