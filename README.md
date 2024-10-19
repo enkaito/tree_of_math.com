@@ -53,3 +53,8 @@
 ## その他
 
 - vscodeに[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)、[markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)を入れることを推奨する。
+- コースツリーのサムネイルについて
+  - サイズは1280x720
+  - 大きい文字：Noto Sans CJK JP Light, 260pt
+  - 小さい文字：Noto Sans CJK JP Semi-Light, 160pt
+  - 垂直、水平方向ともに中央揃え
