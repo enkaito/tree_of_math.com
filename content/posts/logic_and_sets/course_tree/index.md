@@ -25,10 +25,11 @@ weight: 10
 
 ### 論理記号
 
-- [論理和 (conjunction)・論理積 (disjunction)・否定 (negation)]
-- [含意 (implication)・同値 (equivalence)]
-- [全称量化子 (universal quantifier)]
-- [存在量化子 (existential quantifier)]
+- [定義：論理和 (conjunction)・論理積 (disjunction)・否定 (negation)]
+- [定義：含意 (implication)・同値 (equivalence)]
+- [定義：全称量化子 (universal quantifier)]
+- [定義：存在量化子 (existential quantifier)]
+- [定理：ド・モルガンの法則 (De Morgan's law)]
 
 ### 集合の演算
 

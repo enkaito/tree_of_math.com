@@ -34,8 +34,10 @@ $$\bigcap_{\lambda \in \Lambda} X_\lambda := \set{x; \forall \lambda \in \Lambda
 
 ## 注意
 
+- 当たり前だが、$X \cap Y \subset X, X \cap Y \subset Y$は大切。
 - 共通部分は交差、交わりとも呼ばれる。
 - 記号$\cap$はキャップと読むことがある。
 - ここでの積集合と直積集合は異なる概念である。
+- 表記の対称性は崩れてしまうが、$X \cap Y := \set{x \in X; x \in Y}$と書いたほうが、任意の2つの集合の共通部分の存在が内包公理（図式）からすぐ導かれることがわかりやすいだろう。
 
 ## 参考文献

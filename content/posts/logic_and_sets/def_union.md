@@ -34,7 +34,9 @@ $$\bigcup_{\lambda \in \Lambda} X_\lambda := \set{x; \exists \lambda \in \Lambda
 
 ## 注意
 
+- 当たり前だが、$X \subset X \cup Y, Y \subset X \cup Y$は大切。
 - 和集合は合併、結びとも呼ばれる。
 - 記号$\cup$はカップと読むことがある。
+- 和集合を取る操作は、もとの集合より大きな集合を得る操作である。任意の集合（族）に対し、その和集合が存在することを要請するのが和集合の公理である。
 
 ## 参考文献
