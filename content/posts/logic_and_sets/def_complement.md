@@ -23,7 +23,7 @@ draft: false
 
 {{% def "補集合 (complement)" %}}
 $U$を集合、$X$を$U$の部分集合とする。$X$に属さない$U$の元の集合を、$U$に関する$X$の**補集合**といい、$X^{c}$や$\overline{X}$とかく。つまり、
-$$X^{c} := \set{x \in U; x \notin X}$$
+$$X^{c} := \set{a \in U; a \notin X}$$
 
 {{% /def %}}
 

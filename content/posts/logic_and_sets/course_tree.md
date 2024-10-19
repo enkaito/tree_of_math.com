@@ -32,8 +32,8 @@ weight: 10
 ### 集合の演算
 
 - [定義：補集合 (complement)]({{< ref "def_complement">}})
-- [定義：和集合 (union)]
-- [定義：積集合（共通部分） (intersection)]
+- [定義：和集合 (union)]({{< ref "def_union">}})
+- [定義：共通部分（積集合） (intersection)]({{< ref "def_intersection">}})
 - [定義：差集合 (set difference)]
 - [定義：対称差 (symmetric difference)]
 
@@ -49,18 +49,18 @@ weight: 10
 - [定義：同値関係 (equivalence relation)]({{< ref "def_equivalence">}})
 - [定義：同値類 (equivalence class)・商集合 (quotient set)]({{< ref "def_quotient_set">}})
 
-### 順序
-
-- [定義：前順序 (preorder)]
-- [定義：半順序 (partial order)・半順序集合 (partially ordered set; poset)]
-- [定義：全順序 (total order)・前順序集合 (totally ordered set)]
-
 ### 写像
 
 - [定義：写像 (map)]
 - [定義：全射 (surjection)・単射 (injection)・全単射 (bijection)]
 - [定義：逆写像 (inverse)]
 - [定義：合成 (composition)]
+
+### 順序
+
+- [定義：前順序 (preorder)]
+- [定義：半順序 (partial order)・半順序集合 (partially ordered set; poset)]
+- [定義：全順序 (total order)・前順序集合 (totally ordered set)]
 
 ### 濃度
 
