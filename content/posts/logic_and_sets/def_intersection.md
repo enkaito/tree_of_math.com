@@ -22,7 +22,7 @@ draft: false
 
 {{% def "積集合（共通部分） (intersection)" %}}
 $X, Y$を集合とする。$X$か$Y$のどちらにもに属する元の集合を$X$と$Y$の**共通部分（積集合）**\ といい、$X \cap Y$とかく。つまり、
-$$X \cap Y := \set{a; a \in X \wedge a \in Y}$$
+$$X \cap Y := \set{x; x \in X \wedge x \in Y}$$
 
 より一般に、集合族$\mathcal{F}$に対し、集合族の集合のすべてに属する元の集合を共通部分といい、$\bigcap \mathcal{F}$とかく。つまり、
 $$\bigcap \mathcal{F} := \set{x; \forall X \in \mathcal{F}, x \in X}$$

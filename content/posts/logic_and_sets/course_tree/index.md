@@ -35,8 +35,8 @@ weight: 10
 - [定義：補集合 (complement)]({{< ref "def_complement">}})
 - [定義：和集合 (union)]({{< ref "def_union">}})
 - [定義：共通部分（積集合） (intersection)]({{< ref "def_intersection">}})
-- [定義：差集合 (set difference)]
-- [定義：対称差 (symmetric difference)]
+- [定義：差集合 (set difference)]({{< ref "def_set_difference">}})
+- [定義：対称差 (symmetric difference)]({{< ref "def_symmetric_difference">}})
 
 ### 直積・直和・冪集合
 
