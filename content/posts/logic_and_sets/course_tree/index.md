@@ -3,6 +3,7 @@ title: 論理と集合 目次
 date: 2024-10-18
 author: Enklht
 avatar: img/avatars/enklht.webp
+cover: cover.png
 categories:
   - 論理と集合
 tags:
@@ -11,7 +12,7 @@ draft: false
 weight: 10
 ---
 
-論理と集合についてのポータルサイトです。
+論理と集合のコースツリーです。
 
 <!--more-->
 
