@@ -53,7 +53,7 @@ disablePathToLower = true
   showPrevNextPost = true
 
   [params.advanced]
-    customCSS = ["css/custom.css", "css/callout.css", "css/katex.css"]
+    customCSS = ["css/custom.css", "css/callout.css"]
     # customJS = []
 
   [params.experimental]

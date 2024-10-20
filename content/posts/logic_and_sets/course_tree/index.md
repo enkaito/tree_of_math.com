@@ -54,7 +54,7 @@ weight: 10
 ### 写像
 
 - [定義：写像 (map)]({{< ref "def_map">}})
-- [定義：全射 (surjection)・単射 (injection)・全単射 (bijection)]
+- [定義：全射 (surjection)・単射 (injection)・全単射 (bijection)]({{< ref "def_surjection_injection_bijection">}})
 - [定義：逆写像 (inverse)]
 - [定義：合成 (composition)]
 
