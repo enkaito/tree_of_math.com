@@ -1,3 +1,12 @@
+article img {
+  margin: 1em auto;
+  border-radius: 0.2em;
+}
+
+span.katex {
+  margin: 0 0.2em;
+}
+
 [data-theme="emerald"] #disqus_thread {
   color-scheme: none;
   background-color: #fff;
