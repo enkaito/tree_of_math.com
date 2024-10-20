@@ -62,7 +62,7 @@ weight: 10
 
 - [定義：前順序 (preorder)]
 - [定義：半順序 (partial order)・半順序集合 (partially ordered set; poset)]
-- [定義：全順序 (total order)・前順序集合 (totally ordered set)]
+- [定義：全順序 (total order)・全順序集合 (totally ordered set)]
 
 ### 濃度
 
