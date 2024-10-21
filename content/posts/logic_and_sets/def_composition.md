@@ -1,5 +1,5 @@
 ---
-title: 逆写像
+title: 合成
 date: 2024-10-20
 author: Enklht
 avatar: img/avatars/enklht.webp
@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-逆写像について解説します。
+合成ついて解説します。
 
 <!--more-->
 
