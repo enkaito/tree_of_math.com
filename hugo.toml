@@ -48,7 +48,7 @@ disablePathToLower = true
 
   math = true
   rss = true
-  stickyNav = true
+  # stickyNav = true
   reorderNavItems = ["categories", "tags", "search"]
   collapseNavItems = ["posts", "rss"]
   noDefaultSummaryCover = true
