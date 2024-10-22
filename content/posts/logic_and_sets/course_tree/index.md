@@ -41,7 +41,7 @@ weight: 10
 
 ### 直積・直和・冪集合
 
-- [定義：直積集合 (product)]
+- [定義：直積集合 (product)]({{< ref "def_product">}})
 - [定義：直和集合 (direct sum)]
 - [定義：冪集合 (power set)]
 
