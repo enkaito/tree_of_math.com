@@ -1,5 +1,5 @@
 ---
-title: 直積集合
+title: 冪集合
 date: 2024-10-23
 author: Enklht
 avatar: img/avatars/enklht.webp
