@@ -43,7 +43,7 @@ weight: 10
 
 - [定義：直積集合 (product)]({{< ref "def_product">}})
 - [定義：直和集合 (direct sum)]({{< ref "def_direct_sum">}})
-- [定義：冪集合 (power set)]
+- [定義：冪集合 (power set)]({{< ref "def_power_set">}})
 
 ### 同値関係と商集合
 

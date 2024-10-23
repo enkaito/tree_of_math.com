@@ -17,6 +17,8 @@ draft: false
 ## 前提知識
 
 - [集合]({{< ref "def_set">}})
+- [和集合]({{< ref "def_union">}})
+- [直積集合]({{< ref "def_product">}})
 
 ## 定義
 
