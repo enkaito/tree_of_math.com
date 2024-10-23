@@ -74,7 +74,6 @@ x-data="{
   "tags" .Params.tags
   "description" (.Summary | emojify | safeHTML)
   "readingTime" .ReadingTime)
-  "body" .Plain
 }}
 {{ end }}
 
@@ -84,7 +83,6 @@ x-data="{
   var fuseOptions = {
     keys: [
       "title",
-      "body"
     ]
   };
 
