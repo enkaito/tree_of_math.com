@@ -23,7 +23,7 @@ draft: false
 {{% thm "シュレーダー・ベルンシュタインの定理 (Schr&ouml;der-Bernstein theorem)" %}}
 $X, Y$を集合とする。２つの単射$f: X \to Y, g: Y \to X$が存在すれば、$X$から$Y$への全単射が存在する。
 
-{{% /def %}}
+{{% /thm %}}
 
 ## 注意
 
