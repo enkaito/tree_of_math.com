@@ -67,7 +67,7 @@ weight: 10
 ### 濃度
 
 - [定義：濃度 (cardinality)]
-- [定理：シュレーダー・ベルンシュタインの定理 (Schr&ouml;der-Bernstein theorem)]
+- [定理：シュレーダー・ベルンシュタインの定理 (Schr&ouml;der-Bernstein theorem)]({< ref "thm_schroder_bernstein_theorem">})
 
 ### 選択公理とZornの補題
 
