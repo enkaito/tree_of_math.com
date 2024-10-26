@@ -72,6 +72,6 @@ weight: 10
 ### 選択公理とZornの補題
 
 - [公理：選択公理 (the axiom of choice)]
-- [定理：ツォルンの補題 (Zorn's lemma)]
+- [補題：ツォルンの補題 (Zorn's lemma)]({{< ref "lem_zorns_lemma">}})
 
 ## 参考文献
