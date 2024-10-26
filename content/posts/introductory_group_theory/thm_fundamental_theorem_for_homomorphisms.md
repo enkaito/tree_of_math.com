@@ -25,7 +25,6 @@ draft: false
 
 {{% thm "準同型写像 (fundamental theorem on homomorphisms)" %}}
 $G, H$を群、$\phi: G \to H$を$G$から$H$への[準同型写像]({{< ref "def_homomorphism">}})とすると、
-
 $$G / \ker(\phi) \cong \mathrm{Im}(\phi)$$
 
 {{% /thm %}}
