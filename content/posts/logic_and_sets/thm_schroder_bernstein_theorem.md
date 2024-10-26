@@ -20,7 +20,7 @@ draft: false
 
 ## 定義
 
-{{% thm "シュレーダー・ベルンシュタインの定理 (Schr&ouml;der-Bernstein theorem)" %}}
+{{% thm "シュレーダー・ベルンシュタインの定理 (Schröder-Bernstein theorem)" %}}
 $X, Y$を集合とする。2つの単射$f: X \to Y, g: Y \to X$が存在すれば、$X$から$Y$への全単射が存在する。
 
 {{% /thm %}}
