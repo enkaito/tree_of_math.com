@@ -41,7 +41,7 @@ disablePathToLower = true
   # author = ""
   # email = "@gmail.com"
   avatar = "img/avatar.webp"
-  favicon = "img/favicon.ico"
+  favicon = "favicon.ico"
 
   lightTheme = "emerald"
   darkTheme = "forest"
