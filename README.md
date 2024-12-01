@@ -1,6 +1,6 @@
 # 数学の樹 webサイト
 
-[数学の樹トップページ](https://arbormathematica.github.io/tree-of-math-project/)
+[数学の樹トップページ](https://arbormathematica.github.io)
 
 ## 記事の書き方
 
