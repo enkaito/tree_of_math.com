@@ -12,10 +12,6 @@ theme = "dream"
 enableGitInfo = true
 disablePathToLower = true
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-GWVM5R2RNF"
-
 [markup]
   [markup.highlight]
     noClasses = false
