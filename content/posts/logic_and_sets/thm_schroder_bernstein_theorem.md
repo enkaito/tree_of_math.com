@@ -18,7 +18,7 @@ draft: false
 
 - [全射・単射・全単射]({{< ref "def_surjection_injection_bijection">}})
 
-## 定義
+## 主張
 
 {{% thm "シュレーダー・ベルンシュタインの定理 (Schröder-Bernstein theorem)" %}}
 $X, Y$を集合とする。2つの単射$f: X \to Y, g: Y \to X$が存在すれば、$X$から$Y$への全単射が存在する。
