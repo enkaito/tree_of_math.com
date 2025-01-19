@@ -34,8 +34,8 @@ disablePathToLower = true
   # description = ""
   siteStartYear = 2024
 
-  # author = ""
-  # email = "@gmail.com"
+  author = "enklht"
+  email = "enklht@gmail.com"
   avatar = "img/avatar.webp"
   favicon = "favicon.ico"
 
@@ -44,7 +44,6 @@ disablePathToLower = true
 
   math = true
   rss = true
-  # stickyNav = true
   reorderNavItems = ["categories", "tags", "search"]
   collapseNavItems = ["posts", "rss"]
   noDefaultSummaryCover = true
@@ -58,4 +57,4 @@ disablePathToLower = true
 
   [params.experimental]
     jsDate = true
-    jsDateFormat = "yyyy年M月d日"
+    jsDateFormat = "yyyy年 M月 d日"
