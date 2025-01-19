@@ -8,11 +8,11 @@
 .callout > div {
   margin-bottom: 0.5em;
   font-weight: 600;
-  font-size: 1.05em;
+  font-size: 1.1em;
 }
 
 .callout > p {
-  margin: 0;
+  margin: 0.7em 0;
 }
 
 [data-theme="emerald"] {
