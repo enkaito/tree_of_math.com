@@ -19,13 +19,15 @@
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     renderMathInElement(document.body, {
+      globalGroup: true,
       delimiters: [
-        { left: "\\[", right: "\\]", display: true }, // block
-        { left: "$$", right: "$$", display: true }, // block
-        { left: "\\(", right: "\\)", display: false }, // inline
+        // block
+        { left: "\\[", right: "\\]", display: true },
+        { left: "$$", right: "$$", display: true },
+        // inline
+        { left: "\\(", right: "\\)", display: false },
         { left: "$", right: "$", display: false },
       ],
-      throwOnError: false,
     });
   });
 </script>
