@@ -30,6 +30,7 @@ $$X \setminus Y := \set{x \in X; x \notin Y}$$
 
 - 補集合の記号を用いて、$X \setminus Y = X \cap Y^c$ともかける。
 - $X \setminus Y$は$X - Y$とも書かれることがある。しかし、$X, Y$が演算$-$をもつ場合、$X - Y$で$\set{x - y; x \in X, y \in Y}$を表すこともあるため注意。
-- Venn図にすると以下のようになる。![差集合のVenn図](set_diff.svg)
+- Venn図にすると以下のようになる。  
+  ![差集合のVenn図](set_diff.svg)
 
 ## 参考文献

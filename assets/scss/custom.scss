@@ -1,0 +1,54 @@
+article img {
+  margin: 1em auto;
+  border-radius: 0.2em;
+}
+
+span.katex {
+  margin: 0 0.2em;
+}
+
+.callout {
+  border-top: 5px solid;
+  margin: 0.5em auto;
+  padding: 0.5em 1.5em 1em;
+  border-radius: 5px;
+}
+
+.callout > div {
+  margin-bottom: 0.5em;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+.callout > blockquote {
+  width: 95%;
+  margin: 1.5em 0.3em;
+}
+
+.callout > p {
+  margin: 0.7em 0;
+}
+
+[data-scheme="light"] .callout {
+  background-color: #f5f5f5;
+}
+
+[data-scheme="dark"] .callout {
+  background-color: #303030;
+}
+
+.callout.def {
+  border-top-color: #0177b8;
+}
+
+.callout.prop {
+  border-top-color: #8ea885;
+}
+
+.callout.thm {
+  border-top-color: #df7988;
+}
+
+.callout.lem {
+  border-top-color: #ffb900;
+}

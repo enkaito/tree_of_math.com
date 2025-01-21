@@ -35,6 +35,7 @@ $$\prod_{\lambda \in \Lambda} X_\lambda := \set{(x_\lambda)_{\lambda \in \Lambda
 - 濃度について、$|X \times Y| = |X||Y|$が成り立つ。
 - 直積集合の各元からある成分を取り出す写像を射影と呼ぶ。
   - 例えば、$X \times Y$において、$p(x, y) = x, q(x, y) = y$によって定めた$p: X \times Y \to X, q :X \times Y \to Y$が射影である。
-- $p: X \times Y \to X, q: X \times Y \to Y$を射影とする。任意の集合$Z$、写像$f: Z \to X, g: Z \to Y$に対し、$p \circ h = f, q \circ h = g$を満たす写像$h$がただ一つ存在する。この性質を直積の普遍性と呼ぶ。図式にすると以下の通り。![直積の普遍性を示す図式](prod.svg)
+- $p: X \times Y \to X, q: X \times Y \to Y$を射影とする。任意の集合$Z$、写像$f: Z \to X, g: Z \to Y$に対し、$p \circ h = f, q \circ h = g$を満たす写像$h$がただ一つ存在する。この性質を直積の普遍性と呼ぶ。図式にすると以下の通り。  
+  ![直積の普遍性を示す図式](prod.svg)
 
 ## 参考文献

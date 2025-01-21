@@ -33,6 +33,7 @@ $$X \triangle Y := (X \cup Y) \setminus (X \cap Y)$$
 - $X \triangle Y = (X \setminus Y) \cup (Y \setminus X)$である。こちらを定義とすることもある。
 - De Morganの法則より、$X^c \triangle Y^c = X \triangle Y$が成り立つ。
 - 対称差は排他的論理和 (exclusive or; xor)という論理演算と対応している。
-- Venn図にすると以下のようになる。![差集合のVenn図](sym_diff.svg)
+- Venn図にすると以下のようになる。  
+  ![差集合のVenn図](sym_diff.svg)
 
 ## 参考文献
