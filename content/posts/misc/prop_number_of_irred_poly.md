@@ -1,8 +1,6 @@
 ---
 title: $\mathbb{F}_p$上の既約多項式の個数
 date: 2025-01-19
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - その他
 tags:

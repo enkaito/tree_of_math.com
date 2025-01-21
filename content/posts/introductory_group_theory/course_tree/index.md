@@ -1,9 +1,7 @@
 ---
 title: 群論の基礎 目次
 date: 2024-10-15
-author: Enklht
-avatar: img/avatars/enklht.webp
-cover: cover.png
+image: cover.png
 categories:
   - 代数学
   - 群論

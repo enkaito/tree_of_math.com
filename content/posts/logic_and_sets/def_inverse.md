@@ -1,8 +1,6 @@
 ---
 title: 逆写像
 date: 2024-10-20
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 論理と集合
 tags:

@@ -1,8 +1,6 @@
 ---
 title: 準同型写像の核・像
 date: 2024-10-15
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論

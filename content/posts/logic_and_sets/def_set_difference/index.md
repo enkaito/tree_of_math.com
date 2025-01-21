@@ -1,8 +1,6 @@
 ---
 title: 差集合
 date: 2024-10-19
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 論理と集合
 tags:

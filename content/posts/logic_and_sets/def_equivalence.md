@@ -1,8 +1,6 @@
 ---
 title: 同値関係
 date: 2024-08-27T14:25:47+09:00
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 論理と集合
 tags:

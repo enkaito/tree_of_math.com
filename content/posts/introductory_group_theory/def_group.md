@@ -1,8 +1,6 @@
 ---
 title: 群
 date: 2024-08-22T19:09:29+09:00
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論

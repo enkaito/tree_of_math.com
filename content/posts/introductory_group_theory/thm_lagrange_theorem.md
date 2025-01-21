@@ -1,8 +1,6 @@
 ---
 title: ラグランジュの定理
 date: 2024-10-16
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 代数学
   - 群論

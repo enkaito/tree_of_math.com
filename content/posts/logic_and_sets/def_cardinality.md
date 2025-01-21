@@ -1,8 +1,6 @@
 ---
 title: 濃度
 date: 2024-10-28
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 論理と集合
 tags:

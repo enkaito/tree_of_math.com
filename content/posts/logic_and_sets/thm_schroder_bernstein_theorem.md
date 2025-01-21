@@ -1,8 +1,6 @@
 ---
 title: シュレーダー・ベルンシュタインの定理
 date: 2024-10-25
-author: Enklht
-avatar: img/avatars/enklht.webp
 categories:
   - 論理と集合
 tags:
