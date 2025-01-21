@@ -11,8 +11,8 @@ draft: false
 ---
 
 $$
-\newcommand{\Fp}{\mathbb{F}_p}
-\newcommand{\FpX}{\mathbb{F}_p[X]}
+\gdef\Fp{\mathbb{F}_p}
+\gdef\FpX{\mathbb{F}_p[X]}
 $$
 
 素数位数の有限体$\Fp$上の既約多項式の個数について解説します。
