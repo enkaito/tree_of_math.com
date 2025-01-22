@@ -12,9 +12,7 @@
   # LaTeX math support
   # https://gohugo.io/content-management/mathematics/
   [goldmark.extensions.passthrough.delimiters]
-    # block = [['\[', '\]'], ['$$', '$$']]
-    # inline = [['\(', '\)'], ['$', '$']]
-    inline = [['$$', '$$']]
+    inline = [['$$', '$$'], ['$', '$']]
 
 [tableOfContents]
   endLevel = 4
