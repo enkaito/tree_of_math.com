@@ -2,7 +2,7 @@
 title: $\mathbb{F}_p$上の既約多項式の個数
 date: 2025-01-19
 categories:
-  - その他
+  - 代数学
 tags:
   - 命題
 draft: false
