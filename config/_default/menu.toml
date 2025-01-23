@@ -15,18 +15,20 @@
   [main.params]
     icon = "home"
 
-    # [[social]]
-    #   identifier = "github"
-    #   name = "GitHub"
-    #   url = "https://github.com/CaiJimmy/hugo-theme-stack"
+[[social]]
+  identifier = "github"
+  name = "GitHub"
+  url = "https://github.com/ArborMathematica"
+  params.icon = "brand-github"
 
-    #   [social.params]
-    #     icon = "brand-github"
+[[social]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/index.xml"
+  params.icon = "rss"
 
-    # [[social]]
-    #   identifier = "twitter"
-    #   name = "Twitter"
-    #   url = "https://twitter.com"
-
-    #   [social.params]
-    #     icon = "brand-twitter"
+  # [[social]]
+  #   identifier = "twitter"
+  #   name = "Twitter"
+  #   url = "https://twitter.com"
+  #   params.icon = "brand-twitter"
