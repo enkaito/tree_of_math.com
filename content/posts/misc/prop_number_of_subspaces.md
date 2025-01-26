@@ -27,7 +27,7 @@ $$
 有限体$\Fq$上の$n$次元ベクトル空間$\Fq^n$の部分空間の$k$次元部分ベクトル空間の個数は
 
 $$
-\frac{ (q^n - 1)(q^n - q) \cdots (q^n - q^{k-1}) }{ (q^k - 1)(q^k - 1) \cdots (q^k - q^{k-1}) }
+  \frac{ (q^n - 1)(q^n - q) \cdots (q^n - q^{k-1}) }{ (q^k - 1)(q^k - 1) \cdots (q^k - q^{k-1}) }
 $$
 
 {{% /prop %}}
