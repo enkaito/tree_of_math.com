@@ -5,7 +5,7 @@ categories:
   - 代数学
 tags:
   - 命題
-draft: true
+draft: false
 ---
 
 ２つの拡大体の拡大次数が互いに素な場合、合成体の拡大次数は拡大次数の積となることを示します。
