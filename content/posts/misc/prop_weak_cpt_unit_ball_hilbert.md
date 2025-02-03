@@ -40,12 +40,12 @@ Cauchy-Schwarzの不等式より、$\forall n \in \mathbb{N}, |\langle x_n, e_1\
 このとき、$\forall k \in \mathbb{N}, |\langle x_{n^1_k}, e_2\rangle| \le 1$なので、$|\langle x_{n^1_k}, e_1\rangle|$が収束するように$\{x_{n^1_k}\}$の部分列$\{x_{n^2_k}\}$をとることができる。
 これを繰り返して、部分列の列$\{x_{n^l_k}\}$を作る。
 
-ここで、部分列$\{x_{n^k_k}\}$を考えると、途中から収束列の部分列となるため、任意の$l \in \mathbb{N}$に対して$\langle x_{n^k_k}, e_l\rangle$が収束する。
+ここで、部分列$\{x_{n^k_k}\}$を考えると、途中から収束列の部分列となるため、任意の$l \in \mathbb{N}$に対して$\langle x_{n^k_k}, e_l\rangle$は収束する。
 $a_l := \lim_{k \to \infty} \langle x_{n^k_k}, e_l \rangle$とし、$y := \sum_l a_l e_l$と定義する。 定義から、任意の$e_l$について、$\lim_{k \to \infty} \langle x_{n^k_k}, e_l \rangle = a_l = \langle y, e_l \rangle$。
 
 $x_{n^k_k}$が$y$へ弱収束すること、すなわち、任意の$v \in H$について、$\langle x_{n^k_k}, v \rangle$が$\langle y, v \rangle$へ収束することを示す。
 任意の$\epsilon > 0$に対して、
-完全直行基底の稠密性より$\tilde{v} \in \textrm{span} \{e_l\}$を$\| v - \tilde{v} \| < \epsilon$と取れる。また、$\textrm{span} \{e_l\}$での収束より、$\exists N \in \mathbb{N}, k \ge N \implies | \langle x_{n^k_k} - y, \tilde{v} \rangle | < \epsilon$。
+完全直交基底の稠密性より$\tilde{v} \in \textrm{span} \{e_l\}$を$\| v - \tilde{v} \| < \epsilon$と取れる。また、$\textrm{span} \{e_l\}$での収束より、$\exists N \in \mathbb{N}, k \ge N \implies | \langle x_{n^k_k} - y, \tilde{v} \rangle | < \epsilon$。
 したがって、$k \ge N$で、
 
 $$
