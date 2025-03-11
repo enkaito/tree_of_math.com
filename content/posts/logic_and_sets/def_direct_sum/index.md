@@ -35,6 +35,6 @@ $$\coprod_{\lambda \in \Lambda} X_\lambda := \bigcup_{\lambda \in \Lambda} \set{
 - 濃度について、$|X \coprod Y| = |X|+|Y|$が成り立つ。
 - 上では2つの集合を0, 1で添字づけして区別したが、区別ができればよく、添字は必ずしも0, 1でなければいけない訳ではない。
 - $i: X \to X \coprod Y, x \mapsto (0, x), j: Y \to X \coprod Y, y \mapsto (1, y)$とする。任意の集合$Z$、写像$f: X \to Z, g: Y \to Z$に対し、$h \circ i = f, h \circ j = g$を満たす写像$h$がただ一つ存在する。この性質を直和の普遍性と呼ぶ。図式にすると以下の通り。  
-  ![直和の普遍性を示す図式](coprod.svg)
+  {{< img src="coprod.svg" alt="直和の普遍性を示す図式" >}}
 
 ## 参考文献
