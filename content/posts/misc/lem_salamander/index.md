@@ -5,7 +5,7 @@ categories:
   - 
 tags:
   - 補題 
-draft: false
+draft: true
 ---
 
 サラマンダーの補題とその証明について解説します。
