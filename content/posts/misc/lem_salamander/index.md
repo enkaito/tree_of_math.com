@@ -5,10 +5,10 @@ categories:
   - 
 tags:
   - 補題 
-draft: true
+draft: false
 ---
 
-サラマンダーの補題とその証明について解説します。
+サラマンダーの補題について解説します。
 
 <!--more-->
 
@@ -23,10 +23,10 @@ $$
 {{% def %}}
 二重複体の中の加群$A$に対して、以下のように記号を定義する。
 
-<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNyxbMSwxLCJBIl0sWzAsMSwiXFxidWxsZXQiXSxbMSwwLCJcXGJ1bGxldCJdLFswLDAsIlxcYnVsbGV0Il0sWzIsMSwiXFxidWxsZXQiXSxbMSwyLCJcXGJ1bGxldCJdLFsyLDIsIlxcYnVsbGV0Il0sWzEsMCwiYiIsMV0sWzIsMCwiYSIsMV0sWzMsMCwicCIsMV0sWzAsNCwiYyIsMV0sWzAsNSwiZCIsMV0sWzAsNiwicSIsMV1d&embed" width="432" height="432" style="border-radius: 8px; border: none;"></iframe>
+{{< img src="definitions.svg" >}}
 
-- $A_= := \ker c / \im b$: $A$の水平ホモロジー
-- $A_\| := \ker d / \im a$: $A$の垂直ホモロジー
+- $A_= := \ker c / \im b$: $A$での水平ホモロジー
+- $A_\| := \ker d / \im a$: $A$での垂直ホモロジー
 - $\rcp A := (\ker c \cap \ker d) / \im p$: $A$でのreceptor
 - $\don A := \ker q / (\im a + \im b)$: $A$でのdonor
 
@@ -37,7 +37,7 @@ $$
 {{% lem "The Intramural Maps" %}}
 恒等写像$1_A: A \to A$は以下の可換図式を誘導する。
 
-<iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwxLCJBX3tcXHx9Il0sWzEsMCwiXlxcc3F1YXJlIEEiXSxbMiwxLCJBXz0iXSxbMSwyLCJBX1xcc3F1YXJlIl0sWzEsMF0sWzEsMl0sWzIsM10sWzAsM11d&embed" width="432" height="432" style="border-radius: 8px; border: none;"></iframe>
+{{< img src="intramural_maps.svg" >}}
 
 可換図式に現れる4つの射を、$A$に関するintramural mapsという。
 {{% /lem %}}
@@ -45,6 +45,9 @@ $$
 {{% lem "The Extramural Maps" %}}
 二重複体に現れる射$f: A \to B$は射$\don A \to \rcp B$を誘導する。
 この射を、$f$に関するextramural mapという。
+
+{{< img src="extramural_maps.svg" >}}
+
 {{% /lem %}}
 
 ## サラマンダーの補題
@@ -56,10 +59,10 @@ $$
 
 このとき、以下の列は完全。
 ただし、両端の射はそれぞれ$\rcp A, \don B$を経由するようなintra/extramural map の合成。
-$$\don{C} \xrightarrow{\rcp A} A_\| \to \don{A} \to \rcp{B} \to B_\| \xrightarrow{\don B} \rcp{D}$$
+$$\don{C} \xrightarrow{\rcp A} A_= \to \don{A} \to \rcp{B} \to B_= \xrightarrow{\don B} \rcp{D}$$
 
 また、垂直射$A \to B$があり、$A$の左に$C$が、$B$の右に$D$がある時、以下の列は完全となる。
-$$\don{C} \xrightarrow{\rcp A} A_= \to \don{A} \to \rcp{B} \to B_= \xrightarrow{\don B} \rcp{D}$$
+$$\don{C} \xrightarrow{\rcp A} A_\| \to \don{A} \to \rcp{B} \to B_\| \xrightarrow{\don B} \rcp{D}$$
 
 {{% /lem %}}
 
