@@ -162,12 +162,35 @@ $$\don{C} \xrightarrow{\rcp A} A_\| \to \don{A} \to \rcp{B} \to B_\| \xrightarro
 
 {{% /pf %}}
 
+## 系
+
+{{% cor %}}
+下図で$A, B$において水平射が完全ならば、その誘導する extramural maps $\don A \to \rcp B$は同型。
+
+{{< img src="salamander_cor1.svg">}}
+
+同様に、$A, B$において垂直射が完全ならば、その誘導する extramural maps $\don A \to \rcp B$は同型。
+
+{{% /cor %}}
+
+{{% pf %}}
+水平射の場合を示す。
+仮定より、$A_= = 0, B_= = 0$。これと salamander lemma より、以下の完全列を得る。
+
+$$0 \to \don{A} \to \rcp{B} \to 0$$
+
+したがって、射$\don A \to \rcp B$は同型となる。
+
+{{% /pf %}}
+
 ## 名前について
 
-得られる完全列を図に表すと以下のようになる。
+Salamander lemma で得られる完全列を図に表すと以下のようになる。
 矢印がサラマンダーに見えることが名前の由来と思われる。
 
 {{< img src="salamander_hol.svg" >}}
 {{< img src="salamander_vert.svg" >}}
 
 ## 参考文献
+
+- [On diagram-chasing in double complexes (arXiv)](https://arxiv.org/abs/1108.0958)
