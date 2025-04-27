@@ -165,11 +165,11 @@ $$\don{C} \xrightarrow{\rcp A} A_\| \to \don{A} \to \rcp{B} \to B_\| \xrightarro
 ## 系
 
 {{% cor %}}
-下図で$A, B$において水平射が完全ならば、その誘導する extramural maps $\don A \to \rcp B$は同型。
+下図で$A, B$において水平射が完全ならば、誘導される extramural map $\don A \to \rcp B$は同型。
 
 {{< img src="salamander_cor1.svg">}}
 
-同様に、$A, B$において垂直射が完全ならば、その誘導する extramural maps $\don A \to \rcp B$は同型。
+同様に、$A, B$において垂直射が完全ならば、その誘導する extramural map $\don A \to \rcp B$は同型。
 
 {{% /cor %}}
 
