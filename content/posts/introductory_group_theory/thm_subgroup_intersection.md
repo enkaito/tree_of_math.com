@@ -24,6 +24,16 @@ $G$を群、$H, K \subset G$を$G$の部分群とする。このとき、$H \cap
 
 {{% /thm %}}
 
+## 証明
+
+[部分群の判定法]({{< ref "prop_subgroup_test">}})を用いる。
+$e \in H$かつ$e \in K$なので$e \in H \cap K$である。
+ここから特に、$H \cap K \neq \empty$。
+$x, y \in H \cap K$とする。
+このとき$x, y \in H$かつ$x, y \in K$である。
+よって$xy^{-1} \in H$かつ$xy^{-1} \in K$であり、$xy^{-1} \in H \cap K$が成り立つ。
+したがって$H \cap K$は部分群である。
+
 ## 注意
 
 - 上と同様の証明により、部分群の族$\set{H_\lambda}_{\lambda \in \Lambda}$の共通部分$\bigcap_{\lambda \in \Lambda} H_\lambda$も部分群であることが示せる。

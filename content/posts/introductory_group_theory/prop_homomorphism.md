@@ -37,12 +37,28 @@ $$\forall g \in G, \phi(g^{-1}) = \phi(g)^{-1}$$
 $$
 \begin{equation}
   \begin{split}
-    \phi(e_G)\phi(g) = \phi(e_Gg) = \phi(g), \\
-    \phi(g)\phi(e_G) = \phi(ge_G) = \phi(g).
+    \phi(e_G) \phi(g) = \phi(e_G g) = \phi(g), \\
+    \phi(g) \phi(e_G) = \phi(g e_G) = \phi(g).
   \end{split}
 \end{equation}
 $$
-したがって、$\phi(e_G)$は$H$の単位元である。[単位元の一意性]({{< ref "thm_uniqueness_unit">}})より、$\phi(e_G) = e_H$である。
+したがって、$\phi(e_G)$は$H$の単位元である。
+[単位元の一意性]({{< ref "thm_uniqueness_unit">}})より、$\phi(e_G) = e_H$である。
+
+### 準同型写像による逆元の行き先は逆元
+
+任意の$g \in G$について、
+準同型写像の定義、準同型による単位元の行き先は単位元より、
+$$
+\begin{equation}
+  \begin{split}
+    \phi(g^{-1}) \phi(g) = \phi(g^{-1} g) = \phi(e_G) = e_H, \\
+    \phi(g) \phi(g^{-1}) = \phi(g g^{-1}) = \phi(e_G) = e_H.
+  \end{split}
+\end{equation}
+$$
+したがって、$\phi(g^{-1})$は$g$の単位元である。
+[逆元の一意性]({{< ref "thm_uniqueness_inverse">}})より、$\phi(g^{-1}) = \phi(g)^{-1}$である。
 
 ## 注意
 

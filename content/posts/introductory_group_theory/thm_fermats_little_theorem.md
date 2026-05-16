@@ -34,6 +34,6 @@ $p$を素数とする。$a \in \mathbb{Z}$が$p$で割り切れないとき、$$
 - $p$は素数でないといけない。この条件は、$|(\mathbb{Z} / p \mathbb{Z})^{\times}|= p-1$のために必要である。
   - 実際に、例えば$(\mathbb{Z}/4\mathbb{Z})^{\times} = \lbrace |1|, |3| \rbrace$で、$|(\mathbb{Z} / 4 \mathbb{Z})^{\times}|= 2 \neq 4-1$
 - $a$が$p$で割り切れるときは、もちろん$a^{p-1} \equiv 0 \pmod{p}.$
-- 上のケースもまとめて、任意の$a$に対して$a^{p} \equiv a \pmod{p}.$
+  このケースも含め、任意の$a$に対して$a^{p} \equiv a \pmod{p}.$と主張をまとめることもできる。
 
 ## 参考文献

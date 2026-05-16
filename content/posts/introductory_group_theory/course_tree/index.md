@@ -40,6 +40,7 @@ weight: 10
 - [定義：準同型写像 (homomorphism)・同型写像 (isomorphism)・同型 (isomorphic)]({{< ref "def_homomorphism">}})
 - [命題：準同型写像の性質]({{< ref "prop_homomorphism">}})
 - [命題：準同型写像の核 (kernel)・像 (image)]({{< ref "prop_kernel_image">}})
+- [命題：準同型写像が単射である条件]({{< ref "prop_kernel_injective">}})
 - [定理：準同型定理]({{< ref "thm_fundamental_theorem_for_homomorphisms">}})
 
 ### 群の生成
