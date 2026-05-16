@@ -23,11 +23,13 @@ weight: 10
 
 ### 論理記号
 
-- [定義：論理和 (conjunction)・論理積 (disjunction)・否定 (negation)]
-- [定義：含意 (implication)・同値 (equivalence)]
-- [定義：全称量化子 (universal quantifier)]
-- [定義：存在量化子 (existential quantifier)]
-- [定理：ド・モルガンの法則 (De Morgan's law)]
+- [定義：命題 (proposition)]({{< ref "def_proposition" >}})
+- [定義：述語 (predicate)]({{< ref "def_predicate" >}})
+- [定義：論理和 (conjunction)・論理積 (disjunction)・否定 (negation)・排他的論理和 (exclusive or)]({{< ref "def_logical_connectives" >}})
+- [定義：含意 (implication)・同値 (equivalence)]({{< ref "def_implication_equivalence" >}})
+- [定義：全称量化子 (universal quantifier)]({{< ref "def_universal_quantifier" >}})
+- [定義：存在量化子 (existential quantifier)]({{< ref "def_existential_quantifier" >}})
+- [定理：ド・モルガンの法則 (De Morgan's law)]({{< ref "thm_de_morgan_law" >}})
 
 ### 集合の演算
 
