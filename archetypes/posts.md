@@ -1,6 +1,6 @@
 ---
 title: タイトルを入力
-date: {{ .Date }}
+date: { { .Date } }
 categories:
   -
 tags:

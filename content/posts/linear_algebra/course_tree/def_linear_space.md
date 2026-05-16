@@ -1,7 +1,6 @@
 ---
 title: ベクトル空間
 date: 2024-08-24T16:46:02+09:00
-author: Author Name
 categories:
   - 線形代数
 tags:
@@ -15,7 +14,7 @@ draft: false
 
 ## 定義
 
-{{% def ベクトル空間 %}}
+{{% def "ベクトル空間 (linear space)" %}}
 体 $K$, 集合 $V$, に対して加法 $V \times V \to V$, スカラー倍 $K \times V \to V$ が定義されていて以下の条件を満たすとき、$V$ は $K$上の**ベクトル空間**であるという。
 
 1. $\forall x, y, z \in V, (x + y) + z = x + (y + z)$
@@ -26,6 +25,7 @@ draft: false
 6. $\forall x \in V, 1x = x$
 7. $\forall x, y \in V, \forall a \in K, a(x+y) =  ax + ay$
 8. $\forall x \in V, \forall a, b \in K, (a+b)x = ax + bx$
+
 {{% /def %}}
 
 ## 注意
