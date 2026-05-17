@@ -1,7 +1,7 @@
 ---
 title: 線形代数 目次
 date: 2026-05-17
-image: cover.png
+image: cover.svg
 categories:
   - 線形代数
 tags:
@@ -93,4 +93,4 @@ weight: 10
 
 ## 参考文献
 
-- [Sheldon Axler, _Linear Algebra Done Right_, third edition (Undergraduate Texts in Mathematics), Springer, 2015.](https://doi.org/10.1007/978-3-319-11080-6)
+- [Sheldon Axler, _Linear Algebra Done Right_](https://linear.axler.net)

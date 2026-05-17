@@ -1,7 +1,7 @@
 ---
 title: 論理と集合 目次
 date: 2024-10-18
-image: cover.png
+image: cover.svg
 categories:
   - 論理と集合
 tags:

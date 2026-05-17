@@ -1,7 +1,7 @@
 ---
 title: 群論の基礎 目次
 date: 2024-10-15
-image: cover.png
+image: cover.svg
 categories:
   - 代数学
   - 群論
@@ -65,4 +65,4 @@ weight: 10
 ## 参考文献
 
 - 雪江明彦, 『代数学１　群論入門』, 日本評論社, 2010.
-- [Serge Lang, _Algebra_, revised third edition (Graduate Texts in Mathematics 211), Springer-Verlag, 2002.](<https://doi.org/10.1007/978-1-4613-0041-0>)
+- [Serge Lang, _Algebra_, revised third edition (Graduate Texts in Mathematics 211), Springer-Verlag, 2002.](https://doi.org/10.1007/978-1-4613-0041-0)
